@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\AlivateLocalAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD71031-D4D7-403D-AB23-73E62AF657B5}|AlivateLocalAdmin\\AlivateLocalAdmin.csproj|c:\\users\\eilat\\source\\repos\\shiralev100\\casavpn-install-gui\\.vs\\casavpn-install-gui\\casavpn-install-gui\\alivatelocaladmin\\alivatelocaladmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD71031-D4D7-403D-AB23-73E62AF657B5}|AlivateLocalAdmin\\AlivateLocalAdmin.csproj|solutionrelative:alivatelocaladmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\AlivateLocalAdmin\\AlivateLocalAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "AlivateLocalAdmin\\Program.cs",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\AlivateLocalAdmin\\AlivateLocalAdmin\\Program.cs",
+              "RelativeToolTip": "AlivateLocalAdmin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:39:57.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
