@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\AlivateLocalAdmin2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8CF044-06EF-46BC-A553-33C45939171D}|AlivateLocalAdmin2.0\\AlivateLocalAdmin2.0.csproj|c:\\users\\eilat\\source\\repos\\shiralev100\\casavpn-install-gui\\.vs\\casavpn-install-gui\\casavpn-install-gui\\alivatelocaladmin2.0\\alivatelocaladmin2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8CF044-06EF-46BC-A553-33C45939171D}|AlivateLocalAdmin2.0\\AlivateLocalAdmin2.0.csproj|solutionrelative:alivatelocaladmin2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8CF044-06EF-46BC-A553-33C45939171D}|AlivateLocalAdmin2.0\\AlivateLocalAdmin2.0.csproj|c:\\users\\eilat\\source\\repos\\shiralev100\\casavpn-install-gui\\.vs\\casavpn-install-gui\\casavpn-install-gui\\alivatelocaladmin2.0\\alivatelocaladmin2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8CF044-06EF-46BC-A553-33C45939171D}|AlivateLocalAdmin2.0\\AlivateLocalAdmin2.0.csproj|solutionrelative:alivatelocaladmin2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\AlivateLocalAdmin2.0\\AlivateLocalAdmin2.0\\Program.cs",
+              "RelativeDocumentMoniker": "AlivateLocalAdmin2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\AlivateLocalAdmin2.0\\AlivateLocalAdmin2.0\\Program.cs",
+              "RelativeToolTip": "AlivateLocalAdmin2.0\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:51:03.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\AlivateLocalAdmin2.0\\AlivateLocalAdmin2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "AlivateLocalAdmin2.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\AlivateLocalAdmin2.0\\AlivateLocalAdmin2.0\\Form1.cs [Design]",
+              "RelativeToolTip": "AlivateLocalAdmin2.0\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:51:00.51Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

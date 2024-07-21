@@ -1,0 +1,9 @@
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\bin\Debug\AlivateLocalAdmin2.0.exe.config
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\bin\Debug\AlivateLocalAdmin2.0.exe
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\bin\Debug\AlivateLocalAdmin2.0.pdb
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\obj\Debug\AlivateLocalAdmin2.0.csproj.AssemblyReference.cache
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\obj\Debug\AlivateLocalAdmin2._0.Properties.Resources.resources
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\obj\Debug\AlivateLocalAdmin2.0.csproj.GenerateResource.cache
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\obj\Debug\AlivateLocalAdmin2.0.csproj.CoreCompileInputs.cache
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\obj\Debug\AlivateLocalAdmin2.0.exe
+C:\Users\eilat\source\repos\ShiraLev100\CasaVPN-install-GUI\.vs\CasaVPN-install-GUI\CasaVPN-install-GUI\AlivateLocalAdmin2.0\AlivateLocalAdmin2.0\obj\Debug\AlivateLocalAdmin2.0.pdb
