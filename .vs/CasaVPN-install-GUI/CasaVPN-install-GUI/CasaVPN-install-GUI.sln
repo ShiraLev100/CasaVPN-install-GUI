@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaVPN-install-GUI", "CasaVPN-install-GUI\CasaVPN-install-GUI.csproj", "{1CF67BD4-347C-4625-A816-D92440B47FD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C0F9BB46-DB59-44CC-8237-375612DC93AC}"
+	ProjectSection(SolutionItems) = preProject
+		RoundedButton.cs = RoundedButton.cs
+		softethernet.cs = softethernet.cs
+		TransparentTextBox.cs = TransparentTextBox.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF67BD4-347C-4625-A816-D92440B47FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF67BD4-347C-4625-A816-D92440B47FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF67BD4-347C-4625-A816-D92440B47FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF67BD4-347C-4625-A816-D92440B47FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9DA1A5-7696-414C-AC22-E06494B64986}
+	EndGlobalSection
+EndGlobal

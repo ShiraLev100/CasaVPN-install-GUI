@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|c:\\users\\eilat\\source\\repos\\shiralev100\\casavpn-install-gui\\.vs\\casavpn-install-gui\\casavpn-install-gui\\casavpn-install-gui\\resources\\user_credentrials.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|solutionrelative:casavpn-install-gui\\resources\\user_credentrials.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\casavpn-install-gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|solutionrelative:casavpn-install-gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F9BB46-DB59-44CC-8237-375612DC93AC}|Solution Items{C0F9BB46-DB59-44CC-8237-375612DC93AC}|C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\softethernet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F9BB46-DB59-44CC-8237-375612DC93AC}|Solution Items{C0F9BB46-DB59-44CC-8237-375612DC93AC}|solutionrelative:softethernet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\casavpn-install-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|solutionrelative:casavpn-install-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\casavpn-install-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|solutionrelative:casavpn-install-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\casavpn-install-gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF67BD4-347C-4625-A816-D92440B47FD0}|CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj|solutionrelative:casavpn-install-gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CasaVPN-install-GUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "CasaVPN-install-GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:55:13.045Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "softethernet.cs",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\softethernet.cs",
+              "RelativeDocumentMoniker": "softethernet.cs",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\softethernet.cs",
+              "RelativeToolTip": "softethernet.cs",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAgwF4BAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:49:08.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "CasaVPN-install-GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Form1.cs",
+              "RelativeToolTip": "CasaVPN-install-GUI\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:45:11.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user_credentrials.png",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Resources\\user_credentrials.png",
+              "RelativeDocumentMoniker": "CasaVPN-install-GUI\\Resources\\user_credentrials.png",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Resources\\user_credentrials.png",
+              "RelativeToolTip": "CasaVPN-install-GUI\\Resources\\user_credentrials.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:41:29.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Program.cs",
+              "RelativeDocumentMoniker": "CasaVPN-install-GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Program.cs",
+              "RelativeToolTip": "CasaVPN-install-GUI\\Program.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAtwIkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:16:16.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CasaVPN-install-GUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "CasaVPN-install-GUI\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:59:57.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CasaVPN-install-GUI",
+              "DocumentMoniker": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj",
+              "RelativeDocumentMoniker": "CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj",
+              "ToolTip": "C:\\Users\\eilat\\source\\repos\\ShiraLev100\\CasaVPN-install-GUI\\.vs\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj",
+              "RelativeToolTip": "CasaVPN-install-GUI\\CasaVPN-install-GUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T12:29:57.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
