@@ -122,7 +122,9 @@ namespace CasaVPN_install_GUI
          */
         public static void AlivateLocalAdmin(string username, string password)
         {
-            string[] lines = { "username: " + username};
+            string[] lines = { "username: " + username, "password: " + password };
+
+
 
             // Set a variable to the Documents path.
             string docPath = @"C:\";
